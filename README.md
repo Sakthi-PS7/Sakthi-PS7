@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that focuses on CPU and GPU power optimization and improve performance
 - 📫 reach me on LinkedIn: https://www.linkedin.com/in/sakthivelps/  or email to : sakthivel.psivakumar@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love doing research; but hadn't published a single reseach🏃‍➡️
+- ⚡ Fun fact: Love doing research; but hadn't published a single reseach paper yet 🏃‍➡️
 - 🏅 Hobbies: Reading, Pingpong, storytelling, cricket, trekking, dance 
 
 <!---
