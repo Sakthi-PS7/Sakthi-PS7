@@ -1,6 +1,6 @@
 - 👋 Hello!, I’m Sakthivel P S, I'm an Electronics Engineer, currently pursuing my master's in Electrical and Computer Engineering at Northeastern University, Boston Campus.
 - 🕵️‍♂️ I’m curious to learn and use Technology for my needs and career growth
-- 💻 Currently learning Computer Systems (majorly Operating Systems), in which I am able to deep dive into a variety of concepts and protcols that acts as a backbone in the optimal functioning of our modern day computers.Apart from this my interests also drives me towards the extraordinary field of Electronic Chip Design.
+- 💻 Currently learning Computer Systems (majorly Operating Systems), in which I am able to deep dive into a variety of concepts and protocols that acts as a backbone in the optimal functioning of our modern day computers.Apart from this my interests also drives me towards the extraordinary field of Electronic Chip Design.
 - 🤝 Looking to collaborate on projects that focuses on CPU and GPU power optimization and improve performance
 - 📫 reach me on LinkedIn: https://www.linkedin.com/in/sakthivelps/  or email to : sakthivel.psivakumar@gmail.com
 - 🧍 Pronouns: He/Him
