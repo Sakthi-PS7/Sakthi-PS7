@@ -1,11 +1,10 @@
-- 👋 Hello!, I’m Sakthivel P S, I'm an Electronics Engineer, currently pursuing my master's in Electrical and Computer Engineering at Northeastern University, Boston Campus.
-- 🕵️‍♂️ I’m curious to learn and use Technology for my needs and career growth
-- 💻 Currently learning Computer Systems (majorly Operating Systems), in which I am able to deep dive into a variety of concepts and protocols that acts as a backbone in the optimal functioning of our modern day computers.Apart from this my interests also drives me towards the extraordinary field of Electronic Chip Design.
-- 🤝 Looking to collaborate on projects that focuses on CPU and GPU power optimization and improve performance
-- 📫 reach me on LinkedIn: https://www.linkedin.com/in/sakthivelps/  or email to : sakthivel.psivakumar@gmail.com
-- 🧍 Pronouns: He/Him
+- 👋 Hello!, I’m Sakthivel P Sivakumar (He/Him), an Electronics and telecommunication Engineer currently pursuing my master's in Electrical and Computer Engineering at Northeastern University, Boston Campus.
+- 🕵️‍♂️ I learn and use Technology for my needs and career growth
+- 💻 Interested in Embedded Software Developmenmt and building my expertise in the same, cuurently working as a student researcher at Movement Neuroscience Lab (MNL) @ Northeastern University
+- 👨‍🏫 Teaching Assistant for EECE_2540 and EECE_2322/23 
+- 📫 reach me on LinkedIn: https://www.linkedin.com/in/sakthivelps/  or email to : sakthivel.psivakumar@gmail.com 
 - 😁 Fun fact: Love doing research; but hadn't published a paper yet 🏃‍➡️
-- 🛝 Hobbies: Reading, Pingpong, storytelling, cricket, trekking, dance 
+- 🛝 Hobbies: Reading, Trekking, Building Embedded Projects, Racket Sports
 
 <!---
 Sakthi-PS7/Sakthi-PS7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
