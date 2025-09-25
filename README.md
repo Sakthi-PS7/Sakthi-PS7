@@ -14,7 +14,7 @@
 
 <!-- Replace with your profile picture (circular works best) -->
 <!-- PROFILE: Paste image URL below -->
-<img src="images\Fishing_pic_with_cap.jpg" alt="Sakthivel Profile" width="160" style="border-radius:50%; margin-top:12px" />
+<!--<img src="images\Fishing_pic_with_cap.jpg" alt="Sakthivel Profile" width="160" style="border-radius:50%; margin-top:12px" /> -->
 
 <!-- Optional “animated typing” tagline (safe, lightweight SVG). 
 If you prefer static, comment this out and keep the static tagline below. -->
