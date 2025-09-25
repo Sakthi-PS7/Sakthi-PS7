@@ -10,7 +10,7 @@
 
 <!-- Replace with a cinematic banner or “movie poster” -->
 <!-- POSTER: Paste image URL below -->
-<img src="images\spidy_solo_cropped.jpg" alt="Cinematic Poster" width="100%" />
+<img src="images\spidy_solo_cropped.jpg" alt="Cinematic Poster" width="30%" />
 
 <!-- Replace with your profile picture (circular works best) -->
 <!-- PROFILE: Paste image URL below -->
@@ -18,8 +18,8 @@
 
 <!-- Optional “animated typing” tagline (safe, lightweight SVG). 
 If you prefer static, comment this out and keep the static tagline below. -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&center=true&vCenter=true&width=700&lines=Where+code+meets+silicon+—+and+real-time+becomes+story+time." alt="Animated Tagline" />
-
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&center=true&vCenter=true&width=700&lines=Where+code+meets+silicon+—+and+real-time+becomes+story+time." alt="Animated Tagline" />
+-->
 <i>Tagline:</i> <strong>“Where code meets silicon—and real-time becomes story time.”</strong>
 
 <!-- (No background wrapper: reverted to plain layout) -->
@@ -243,16 +243,16 @@ I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston
 ## 🧩 Act V — Extracurriculars (Ensemble Energy)
 
 **NU Wireless Club**  
-- Contributing to student-led RF / wireless protocol labs (SDR experiments, antenna characterization, over-the-air packet sniffing).  
+<!-- - Contributing to student-led RF / wireless protocol labs (SDR experiments, antenna characterization, over-the-air packet sniffing).  
 - Assisting peers with firmware bring‑up for low‑power transceivers (SPI init, interrupt handlers, register map decoding).  
-- Supporting workshop material: framing PHY/MAC layer trade‑offs (latency vs throughput vs power) with concise diagrams.  
+- Supporting workshop material: framing PHY/MAC layer trade‑offs (latency vs throughput vs power) with concise diagrams.   -->
 
 **NU Electric Racing (Electric/Formula Hybrid Team)**  
-- Collaborating on embedded telemetry + sensor acquisition path (current, voltage, temperature, wheel speed) for real‑time vehicle insight.  
+<!-- - Collaborating on embedded telemetry + sensor acquisition path (current, voltage, temperature, wheel speed) for real‑time vehicle insight.  
 - Assisting with CAN bus message layout and validation tooling (fault injection & bus load observation).  
-- Helping document wiring / interface conventions to reduce integration churn pre‑scrutineering.  
+- Helping document wiring / interface conventions to reduce integration churn pre‑scrutineering.   -->
 
-> (If you have measurable numbers—e.g., reduction in debug time, % telemetry coverage, # workshops delivered—add them inline for extra punch.)
+<!-- > (If you have measurable numbers—e.g., reduction in debug time, % telemetry coverage, # workshops delivered—add them inline for extra punch.) -->
 
 ---
 
@@ -264,12 +264,11 @@ I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston
 - Hosting Q&A / micro‑sessions (networking etiquette, course planning) with emphasis on actionable checklists.  
 - Providing 1:1 guidance on transitioning embedded coursework from prior curricula to Northeastern’s lab expectations.  
 
-**Senator — Graduate Student Government (GSG)**  
-- Representing ECE graduate constituency; channeling lab / TA feedback into policy or resource proposals.  
-- Contributing to committee discussions on academic support & professional development programming.  
+**Senator — Graduate Student Government (GSG)**   
+- Contributing to committee discussions on Student Welfare within the university 
 - Drafting concise briefing notes to accelerate consensus (problem framing → proposed action → impact).  
 
-> (Add concrete impacts when ready: e.g., “Increased attendance by X%”, “Streamlined resource request turnaround from X days to Y”.)
+<!-- > (Add concrete impacts when ready: e.g., “Increased attendance by X%”, “Streamlined resource request turnaround from X days to Y”.) -->
 
 ---
 
@@ -278,23 +277,6 @@ I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston
 
 - **Volunteering:** Participating in Walkthroughts and building projects for students as part of Non-profit
 - **Hobbies:** Trekking, Reading, **Racket Sports**, and building weekend **embedded prototypes** ⚡
-
----
-
-<a id="stats"></a>
-## 📈 Stats & Signals (Minimalist & Optional)
-<details>
-  <summary><b>Show GitHub Signals</b></summary>
-  
-  <!-- Clean, unobtrusive stats. If any image doesn't load, just remove it. -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sakthi-PS7&show_icons=true&hide_title=true&include_all_commits=true&hide=issues&rank_icon=github" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi-PS7&layout=compact&hide_title=true" alt="Top Languages" height="150" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sakthi-PS7&hide_border=true" alt="Streak" height="150" />
-  </p>
-</details>
 
 ---
 
@@ -312,11 +294,11 @@ I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston
 <div align="center">
 
 <!-- Call-To-Action Badges -->
-<a href="https://example.com/resume.pdf" title="Resume (placeholder link)">
+<a href="Sakthivel_Firmware_Resume.pdf" title="Resume">
   <img src="https://img.shields.io/badge/Resume-Download-4B5563?logo=adobeacrobatreader&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Sakthi-PS7?tab=repositories" title="Collaborate on a repo">
+<a href="https://github.com/Sakthi-PS7/My_RTXI_Repo" title="Collaborate on a repo">
   <img src="https://img.shields.io/badge/Collaborate-Open%20to%20Projects-2563EB?logo=github&logoColor=white" />
 </a>
 &nbsp;
@@ -324,10 +306,10 @@ I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston
   <img src="https://img.shields.io/badge/View-Highlighted%20Projects-10B981?logo=codefactor&logoColor=white" />
 </a>
 <br/>
-<a href="https://example.com/portfolio" title="(Optional) Portfolio site placeholder">
+<!-- <a href="https://example.com/portfolio" title="(Optional) Portfolio site placeholder">
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F59E0B?logo=vercel&logoColor=white" />
-</a>
-<br/><sub><i>(Replace placeholder links with real assets when ready.)</i></sub>
+</a> -->
+<!-- <br/><sub><i>(Replace placeholder links with real assets when ready.)</i></sub> -->
 
 <a href="mailto:ponnampalayamsivak.s@northeastern.edu">
   <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
