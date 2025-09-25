@@ -1,98 +1,406 @@
-## Welcome to My GitHub Profile! 👋
-<!---
-- 👋 Hello!, I’m Sakthivel P Sivakumar (He/Him), an Electronics and telecommunication Engineer currently pursuing my master's in Electrical and Computer Engineering at Northeastern University, Boston Campus.
-- 🕵️‍♂️ I learn and use Technology for my needs and career growth
-- 💻 Interested in Embedded Software & Firmware Developmenmt and building my expertise in the same, currently working as a student researcher at Movement Neuroscience Lab (MNL) @ Northeastern University
-- 👨‍🏫 Teaching Assistant for EECE_2540 and EECE_2322/23 
-- 📫 reach me on LinkedIn: https://www.linkedin.com/in/sakthivelps/  or email to : sakthivel.psivakumar@gmail.com 
-- 😁 Fun fact: Love doing research; but hadn't published a paper yet 🏃‍➡️
-- 🛝 Hobbies: Reading, Trekking, Building Embedded Projects, Racket Sports
+<!-- ========================================================= -->
+<!-- 🎬 A MOVIE ABOUT MY CAREER JOURNEY — GITHUB PROFILE README -->
+<!-- ========================================================= -->
 
+<!-- ===== Title / Opening Poster ===== -->
+<div align="center">
 
-Sakthi-PS7/Sakthi-PS7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+# 🎬 **THE FIRMWARE 💻 CHRONICLES📔**
+### **Starring: Sakthivel P. Sivakumar** <img src="images\Github_Cat\spidertocat.png" alt="Sakthivel Profile" width="30" style="border-radius:25%; margin-top:12px" />
 
-## Welcome to My GitHub Profile! 👋
+<!-- Replace with a cinematic banner or “movie poster” -->
+<!-- POSTER: Paste image URL below -->
+<img src="images\spidy_solo_cropped.jpg" alt="Cinematic Poster" width="100%" />
 
-## About Me 😄
+<!-- Replace with your profile picture (circular works best) -->
+<!-- PROFILE: Paste image URL below -->
+<img src="images\Fishing_pic_with_cap.jpg" alt="Sakthivel Profile" width="160" style="border-radius:50%; margin-top:12px" />
 
-Hi, I'm Sakthivel! I'm a passionate Firmware and Embedded Systems Enthusiast, trying to feed my curiosity and demystfying the core concepts behind the working of a computing system.
+<!-- Optional “animated typing” tagline (safe, lightweight SVG). 
+If you prefer static, comment this out and keep the static tagline below. -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&center=true&vCenter=true&width=700&lines=Where+code+meets+silicon+—+and+real-time+becomes+story+time." alt="Animated Tagline" />
 
-<p align="center">
-	<img src="Fishing_pic_with_cap.jpg" alt="Fishing" height="35%" width="35%"/>
+<i>Tagline:</i> <strong>“Where code meets silicon—and real-time becomes story time.”</strong>
+
+<!-- (No background wrapper: reverted to plain layout) -->
+
+<!-- ============================ -->
+<!-- 🎯 NOW CASTING (Job Targets) -->
+<!-- ============================ -->
+<div align="center">
+
+> **Open for Co-op / Internship (40 hrs/week): Spring 2026 · New England Preferred (open for relocation)**  
+> International student — **cannot** take Citizens/PR-only roles
+
+<p>
+  <img src="https://img.shields.io/badge/Firmware%20Engineer-Now%20Casting-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-RTOS%20%7C%20C%2FC%2B%2B%20%7C%20STM32-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Board%20Bring-Up-I2C%20%7C%20SPI%20%7C%20UART%20%7C%20CAN-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Drivers%20%7C%20Tooling-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networks-TCP%2FIP%20%7C%20Wireshark-111827?style=for-the-badge" />
 </p>
-I'm Currently Pursuing my master's in Electrical and Computer Engineering at Northeastern University, Boston Campus.
-<p align="center">
-	<img src="Kretzman Qudarangle_Fall_24.jpg" alt="Northeastern University" height="35%" width="35%"/>
+
+</div>
+
+---
+
+<!-- ===================== -->
+<!-- 🔗 QUICK NAVIGATION  -->
+<!-- ===================== -->
+<details open>
+  <summary><b>📍 Quick Navigation</b> (jump to a section)</summary>
+
+  <p>
+    <a href="#act-i">Act I – Introduction</a> ·
+    <a href="#act-ii">Act II – Education</a> ·
+    <a href="#act-iii">Act III – Skills</a> ·
+    <a href="#act-iv">Act IV – Projects & Experience</a> ·
+    <a href="#act-v">Act V – Extracurriculars</a> ·
+    <a href="#leadership">Leadership</a> ·
+    <a href="#bonus">Bonus</a> ·
+    <a href="#stats">Stats</a> ·
+    <a href="#awards">Awards</a> ·
+    <a href="#contact">Contact</a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🧪 Soft Skill Examples (evidence)</b></summary>
+  <ul>
+    <li><b>Mentorship:</b> Guided RISC‑V lab cohorts; introduced pre-lab checklists reducing clarifying questions (qualitative TA feedback).</li>
+    <li><b>Reliability Thinking:</b> Data transfer project instrumentation uncovered timeout tuning sweet spot (reduced retransmits at medium loss).</li>
+    <li><b>Cross-Discipline Communication:</b> Converted raw sensor register docs into quick‑reference tables for Formula Student teammates.</li>
+    <li><b>Documentation:</b> Embedded project README templates (Setup → Build → Test) reused across multiple repos.</li>
+    <li><b>Iteration Mindset:</b> Built latency profiling harness before optimizing neurofeedback loops, avoiding premature micro‑tuning.</li>
+  </ul>
+  <i>Tip: Replace qualitative notes with numbers as you collect them (e.g., “cut support pings by 30%”).</i>
+</details>
+
+---
+
+<a id="act-i"></a>
+## 🎟️ Act I — The Protagonist (Introduction)
+
+Hello! I’m **Sakthivel**, a hands-on **Embedded & Firmware Engineer** who loves building at the edge where **software orchestrates hardware**.  
+I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston**, and mentoring peers as a **Teaching Assistant**. My interests span **real-time systems, low-level OS internals, protocols, and signal-aware firmware**—anchored by measurable outcomes and careful engineering.
+
+> **Seeking:** Co-op/Internship (Full-time 40 hrs/week) in **Spring 2026** — Massachusetts & New England preferred.  
+> **Work Authorization:** International student; open to roles **not restricted** to U.S. Citizens/PR only.
+
+---
+
+<a id="act-ii"></a>
+## 🎓 Act II — The Origin Story (Educational Background)
+
+**Northeastern University — Boston, MA**  
+*M.S., Electrical & Computer Engineering* · **Dec 2026 (Expected)** · GPA: 3.5  
+**Relevant Coursework:** Computer Architecture, Operating Systems, Hardware & System Security, Computer Networks
+
+**Anna University — Chennai, India**  
+*B.E., Electronics & Communication Engineering* · **May 2024** · GPA: 3.6  
+**Relevant Coursework:** Digital Design, Embedded Systems, RTES, DSP, Internet of Things (IoT)
+
+---
+
+<a id="act-iii"></a>
+## 🛠️ Act III — The Arsenal (Technical & Soft Skillsets)
+
+### Core Stack (Top-Billed)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-RISC--V-6DB33F" />
+  <img src="https://img.shields.io/badge/Verilog%2FSystemVerilog-FF6F00" />
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
 </p>
 
-- 👨‍🏫 Teaching Assistant for EECE_2540 and EECE_2322/23 
-- 📫 reach me on LinkedIn: https://www.linkedin.com/in/sakthivelps/  or email to : sakthivel.psivakumar@gmail.com 
-- 😁 Fun fact: Love doing research; but hadn't published a paper yet 🏃‍➡️
-- 🛝 Hobbies: Reading, Trekking, Building Embedded Projects, Racket Sports
+### Boards, Tools & Protocols
+<p>
+  <img src="https://img.shields.io/badge/STM32-Nucleo-03234B" />
+  <img src="https://img.shields.io/badge/Xilinx-FPGA-CA0000" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-SoC-BC1142" />
+  <img src="https://img.shields.io/badge/ESP8266%2FESP32-IoT-0FAAFF" />
+  <img src="https://img.shields.io/badge/Vivado-Design%20Suite-69459B" />
+  <img src="https://img.shields.io/badge/KiCAD-PCB-2C7B5C" />
+  <img src="https://img.shields.io/badge/Wireshark-Analysis-1679A7" />
+  <img src="https://img.shields.io/badge/CMake-Build-064F8C" />
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?logo=github&logoColor=white" />
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/UART-Protocol-444444" />
+  <img src="https://img.shields.io/badge/SPI-Protocol-444444" />
+  <img src="https://img.shields.io/badge/I2C-Protocol-444444" />
+  <img src="https://img.shields.io/badge/CAN-Bus-444444" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-Networking-444444" />
+  <img src="https://img.shields.io/badge/HTTP-Stack-444444" />
+  <img src="https://img.shields.io/badge/DNS-Networking-444444" />
+</p>
 
-## 📫 Connect with Me
+<details>
+  <summary><b>🔎 Full Arsenal (click to expand)</b></summary>
 
-reach me on LinkedIn: https://www.linkedin.com/in/sakthivelps/  or email to : sakthivel.psivakumar@gmail.com 
+**Languages:** C, C++, Python, Assembly (RISC-V), Verilog/SystemVerilog, Bash  
+**Boards/Platforms:** STM32 Nucleo, Xilinx FPGA (PYNQ-Z2), Arduino, Raspberry Pi, ESP8266/ESP32  
+**Tools/EDAs/Test:** Vivado, KiCAD, Wireshark, CMake, Git/GitHub, Debuggers, Logic Analyzer, Oscilloscope, Multimeter, Soldering  
+**Networking/Protocols:** UART, SPI, I2C, CAN, TCP/IP, DNS, HTTP  
+**Operating Systems:** Linux, Windows  
+</details>
 
---->
+### Soft Skills (Director’s Notes)
+- **Mentorship & Communication** — TA across Digital Design & Networks; simplify complex topics, lead recitations/labs  
+- **Teamwork Under Pressure** — SAE Formula Student electronics team (DAQ, telemetry integration, race-day reliability)  
+- **System Thinking** — balances real-time constraints, interfaces, and measurable performance outcomes  
+- **Creativity with Rigor** — business pitch design + engineering docs; pragmatic and tasteful
 
-<h1 align="center">Hola! <img src=images\Github_Cat\spidertocat.png height="5%" width="5%"/> , Mi llamo Sakthi</h1>
+<details>
+  <summary><b>🎛️ Perspectives (filter my profile)</b></summary>
+  <table>
+    <tr><th>Firmware Lens</th><td>Low-level C/C++ focus, deterministic timing, bus bring‑up (UART/SPI/I2C/CAN), RTOS experimentation, memory layout intuition.</td></tr>
+    <tr><th>Systems Lens</th><td>Kernel primitives (syscalls, context switching), ELF loading, concurrency boundaries, instrumentation mindset.</td></tr>
+    <tr><th>Networking Lens</th><td>Transport reliability (ABT/GBN), Wireshark analysis, protocol framing (TCP/IP, DNS), latency vs throughput trade-offs.</td></tr>
+    <tr><th>Teaching & Mentorship</th><td>Lab scaffolding, conceptual reframing, cohort onboarding, structured feedback loops.</td></tr>
+  </table>
+</details>
 
+---
 
+<a id="act-iv"></a>
+## 🎬 Act IV — The Missions (Projects & Professional Experience)
 
-**`Lifelong learner (Developer/Sportman/Mentor)`**
+### Featured Projects (Action Sequence)
+<details open>
+  <summary><b>🗂️ Compact Table View</b> (click to collapse)</summary>
 
-## About Me 😄
-<h3 align="center">Passionate about the space where code meets silicon. As a firmware and embedded systems developer, I'm driven to demystify the core principles of computing, building intelligent solutions that bridge the gap between abstract logic and physical hardware</h3>
+  | Title | Plot (Challenge → My Solution → Outcome) | Tech |
+  |---|---|---|
+  | **Firmware for TMS Neurofeedback** | Latency-critical neurophysiological feedback → RT C++ plugins in RTXi/Xenomai → foundation for hard real-time experiments. | C++, **Xenomai**, **RTXi**, Linux |
+  | **OS Primitives from Scratch** | Need kernel insight → syscalls, ELF loader, custom mmap, context switcher → runnable user programs w/ 4KB stacks. | C, Xen, SSH |
+  | **Reliable Data Transfer (ABT & GBN)** | Packet loss vs throughput → ABT & GBN w/ timers & checksums → **95%+** delivery across regimes. | C++, Ubuntu |
+  | **RT Health Monitor IoT (<$15)** | Affordable vitals logging → ESP32 + MAX30102 + OLED + cloud → portable SPO2/BPM/temp history. | ESP32, MAX30102 |
+  | **Vision-Based Smart Traffic** | Static timing waste → YOLOv5 queue sensing → **~27%** simulated wait reduction. | Python, OpenCV |
+</details>
 
+<details>
+  <summary><b>🔍 Deep Dive: Firmware for TMS Neurofeedback</b></summary>
+  <b>Context:</b> Real-time TMS experiments required deterministic feedback loops (<5 ms jitter tolerance).<br/>
+  <b>Engineering:</b> Designed pluggable C++ modules inside RTXi/Xenomai, isolated acquisition vs processing threads; minimized lock contention; profiled latency with cycle counters.<br/>
+  <b>Outcome:</b> Stable baseline enabling future closed-loop neuro-modulation experiments. (Add measured avg/max latency when available.)
+</details>
 
+<details>
+  <summary><b>🔍 Deep Dive: OS Primitives from Scratch</b></summary>
+  Implemented minimalist userspace program loader (ELF parsing), syscall dispatcher, and cooperative thread context save/restore. Showcases low-level memory + control-flow understanding.
+</details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthi-ps7&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi-ps7" /> </p>
+<details>
+  <summary><b>🔍 Deep Dive: Reliable Data Transfer (ABT & GBN)</b></summary>
+  Built instrumentation harness to vary loss %, window size, and RTT emulation; exported CSV metrics. Potential extension: selective repeat or congestion window experiment.
+</details>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthi-ps7" alt="sakthi-ps7" /></a> </p>
+<details>
+  <summary><b>🔍 Deep Dive: RT Health Monitor IoT</b></summary>
+  Optimized sensor read scheduling to prevent bus contention; future enhancement: add OTA firmware & low-power sleep cycles.
+</details>
 
+<details>
+  <summary><b>🔍 Deep Dive: Vision-Based Smart Traffic</b></summary>
+  Pipeline: capture → YOLOv5 inference (PyTorch) → queue length heuristic → adaptive phase timing. Possible next step: deploy on edge TPU for latency.
+</details>
+
+<!-- 👉 Add direct repo links for each project -->
+<!-- Example: [Repo](https://github.com/Sakthi-PS7/your-project) -->
+<!-- PROJECT_LINKS: Insert your repo URLs inline in the titles above if desired -->
+
+#### Professional Experience (Supporting Cast)
+<details>
+  <summary><b>🗓️ Experience Timeline (chronology view)</b></summary>
+  
+  | Period | Role / Focus | Snapshot Impact |
+  |--------|--------------|-----------------|
+  | 2025 | Teaching Assistant (Digital Design / Networks) | 90% lab on-time completion; reinforced RISC‑V & protocol fundamentals. |
+  | 2024 → 2026 | M.S. ECE (Northeastern) | Specializing in embedded systems, OS internals & networking. |
+  | 2023 | Embedded & IoT Intern (Emertxe) | Delivered low-cost vitals logger + vision-based traffic prototype. |
+  | 2021–2022 | Electronics (SAE Formula Student) | Improved DAQ reliability & telemetry integration. |
+  | Pre-2021 | Undergraduate Foundations | Core EE / embedded coursework & early prototyping. |
+</details>
+- **Teaching Assistant — Digital Design & Computer Organization** (Northeastern, 2025)  
+  Helped students build **RISC-V single-cycle processors** on **PYNQ-Z2 (Xilinx Vivado)**; ramped core topics (ALU, reg-file, memory, decoders); **90%** on-time lab completion.
+
+- **Teaching Assistant — Fundamentals of Networks** (Northeastern, 2025)  
+  Led **Wireshark** labs, **socket programming** (Python), and **TCP/IP**; biweekly coaching.
+
+- **Embedded & IoT Engineer Intern — Emertxe** (Bangalore, 2023)  
+  Built **ThingSpeak**-backed health monitor and **vision-based** adaptive traffic timer (YOLOv5/OpenCV).
+
+- **Electronics (SAE Formula Student) — Team Sakthi Racing** (2021–2022)  
+  Optimized **real-time DAQ** (6+ sensors), **I2C/UART/ADC** integration with ECU/GPS, plus **business-pitch** design support.
+
+---
+
+<a id="act-v"></a>
+## 🧩 Act V — Extracurriculars (Ensemble Energy)
+
+**NU Wireless Club**  
+- Contributing to student-led RF / wireless protocol labs (SDR experiments, antenna characterization, over-the-air packet sniffing).  
+- Assisting peers with firmware bring‑up for low‑power transceivers (SPI init, interrupt handlers, register map decoding).  
+- Supporting workshop material: framing PHY/MAC layer trade‑offs (latency vs throughput vs power) with concise diagrams.  
+
+**NU Electric Racing (Electric/Formula Hybrid Team)**  
+- Collaborating on embedded telemetry + sensor acquisition path (current, voltage, temperature, wheel speed) for real‑time vehicle insight.  
+- Assisting with CAN bus message layout and validation tooling (fault injection & bus load observation).  
+- Helping document wiring / interface conventions to reduce integration churn pre‑scrutineering.  
+
+> (If you have measurable numbers—e.g., reduction in debug time, % telemetry coverage, # workshops delivered—add them inline for extra punch.)
+
+---
+
+<a id="leadership"></a>
+## 🧭 Leadership (Guiding the Narrative)
+
+**Global Student Mentor — Northeastern University**  
+- Onboarding incoming international graduate cohorts: orienting on academic tools, campus resources, and lab culture.  
+- Hosting Q&A / micro‑sessions (networking etiquette, course planning) with emphasis on actionable checklists.  
+- Providing 1:1 guidance on transitioning embedded coursework from prior curricula to Northeastern’s lab expectations.  
+
+**Senator — Graduate Student Government (GSG)**  
+- Representing ECE graduate constituency; channeling lab / TA feedback into policy or resource proposals.  
+- Contributing to committee discussions on academic support & professional development programming.  
+- Drafting concise briefing notes to accelerate consensus (problem framing → proposed action → impact).  
+
+> (Add concrete impacts when ready: e.g., “Increased attendance by X%”, “Streamlined resource request turnaround from X days to Y”.)
+
+---
+
+<a id="bonus"></a>
+## 🎞️ Bonus Features — Behind the Scenes (Volunteering & Hobbies)
+
+- **Volunteering:** Participating in Walkthroughts and building projects for students as part of Non-profit
+- **Hobbies:** Trekking, Reading, **Racket Sports**, and building weekend **embedded prototypes** ⚡
+
+---
+
+<a id="stats"></a>
+## 📈 Stats & Signals (Minimalist & Optional)
+<details>
+  <summary><b>Show GitHub Signals</b></summary>
+  
+  <!-- Clean, unobtrusive stats. If any image doesn't load, just remove it. -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sakthi-PS7&show_icons=true&hide_title=true&include_all_commits=true&hide=issues&rank_icon=github" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi-PS7&layout=compact&hide_title=true" alt="Top Languages" height="150" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sakthi-PS7&hide_border=true" alt="Streak" height="150" />
+  </p>
+</details>
+
+---
+
+<a id="awards"></a>
+## 🏆 Critical Acclaim — Awards & Achievements
+
+> *Reserved for future recognitions, hackathons, conference papers, and honors.*  
+> <!-- TIP: Add bullet points here as you earn them. -->
+
+---
+
+<a id="contact"></a>
+## 🎬 End Credits — Get in Touch
+
+<div align="center">
+
+<!-- Call-To-Action Badges -->
+<a href="https://example.com/resume.pdf" title="Resume (placeholder link)">
+  <img src="https://img.shields.io/badge/Resume-Download-4B5563?logo=adobeacrobatreader&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Sakthi-PS7?tab=repositories" title="Collaborate on a repo">
+  <img src="https://img.shields.io/badge/Collaborate-Open%20to%20Projects-2563EB?logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="#act-iv" title="Jump to Projects">
+  <img src="https://img.shields.io/badge/View-Highlighted%20Projects-10B981?logo=codefactor&logoColor=white" />
+</a>
+<br/>
+<a href="https://example.com/portfolio" title="(Optional) Portfolio site placeholder">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F59E0B?logo=vercel&logoColor=white" />
+</a>
+<br/><sub><i>(Replace placeholder links with real assets when ready.)</i></sub>
+
+<a href="mailto:ponnampalayamsivak.s@northeastern.edu">
+  <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sakthivelps/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Sakthi-PS7">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/sakthi_ps7">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://medium.com/@sakthi_ps">
+  <img src="https://img.shields.io/badge/Medium-Read-000000?logo=medium&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- =============================== -->
+<!-- 🎨 DIRECTOR’S CUT — Poster Spec -->
+<!-- =============================== -->
+
+<!-- POSTER DESIGN (for your banner image)
+Theme: “firmware noir” — cinematic, clean, technical.
+
+Layout:
+- Top third: Title “THE FIRMWARE CHRONICLES” (bold sans: Inter/Outfit/SF Pro Display).
+- Sub-line: “Starring Sakthivel P. Sivakumar” (light mono: Fira Code/IBM Plex Mono).
+- Middle: Faint PCB traces + oscilloscope waveform; subtle RISC-V opcode texture (low opacity).
+- Bottom: “Where code meets silicon—and real-time becomes story time.”
+
+Palette:
+- Near-black: #0B0F14 (background)
+- Slate: #1F2937 (panels)
+- Electric cyan: #22D3EE (accent)
+- Lime signal: #A3E635 (highlight)
+- Warm amber: #F59E0B (secondary accent)
+- Pure white: #FFFFFF (type)
+
+Typography:
+- Title: Inter/Outfit, Heavy/Bold, wide tracking.
+- Subtitle/Tagline: Fira Code/IBM Plex Mono, Regular.
+- Small labels/badges: SF Mono or JetBrains Mono.
+
+Graphic Motifs:
+- PCB traces along left/right margins (very subtle glow).
+- Oscilloscope sine or square wave crossing behind the title.
+- Small glyphs: UART/SPI/I2C/CAN icons, Linux penguin silhouette (5–10% opacity).
+
+Export:
+- 1600 × 600 (GitHub banner friendly), PNG or WebP. Keep file < 1.2 MB.
 -->
 
-<p align="left"> <a href="https://twitter.com/sakthi_ps7" target="blank"><img src="https://img.shields.io/twitter/follow/sakthi_ps7?logo=twitter&style=for-the-badge" alt="sakthi_ps7" /></a> </p>
+<!-- PROFILE PIC NOTES:
+Use a clean, front-lit headshot or lab shot with board/scope background.
+Crop circular, keep strong contrast; avoid busy backgrounds.
+-->
 
-## Educational background🏫
+<!-- PROJECT LINKS:
+Attach live repo/demo links in the projects table titles.
+Add shields for key outcomes (coverage %, latency, $-cost).
+-->
 
-Ongoing: 
-MS in Electrical and Computer Engineering @Northeastern University, Boston (2024 - Present)
+<!-- STYLE GUIDELINES:
+- Keep main view tight; details live in collapsibles.
+- Focus on measurable outcomes (latency %, coverage %, cost).
+- Prefer present-tense, active voice, and neutral tone.
+-->
 
-Completed:
-BE in Electronics and Communication Engineering @Kumaraguru College of Technology, Coimbatore (2020 - 2024)
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/sakthi_ps7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakthi_ps7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sakthivelps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthivelps" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users//29589195/sakthivel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/29589195/sakthivel" height="30" width="40" /></a>
-<a href="https://instagram.com/sakthi_.30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakthi_.30" height="30" width="40" /></a>
-<a href="https://medium.com/@sakthi_ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakthi_ps" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/boston._boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boston._boy" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
-
-
-<!--<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthi-ps7&show_icons=true&locale=en&layout=compact" alt="sakthi-ps7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakthi-ps7&show_icons=true&locale=en" alt="sakthi-ps7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakthi-ps7&" alt="sakthi-ps7" /></p>
