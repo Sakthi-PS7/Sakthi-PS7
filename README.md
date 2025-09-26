@@ -10,7 +10,7 @@
 
 <!-- Replace with a cinematic banner or “movie poster” -->
 <!-- POSTER: Paste image URL below -->
-<img src="images\spidy_solo_cropped.jpg" alt="Cinematic Poster" width="30%" />
+<img src="images\spidy_solo_cropped.jpg" alt="Cinematic Poster" width="40%" />
 
 <!-- Replace with your profile picture (circular works best) -->
 <!-- PROFILE: Paste image URL below -->
@@ -247,7 +247,7 @@ I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston
 - Assisting peers with firmware bring‑up for low‑power transceivers (SPI init, interrupt handlers, register map decoding).  
 - Supporting workshop material: framing PHY/MAC layer trade‑offs (latency vs throughput vs power) with concise diagrams.   -->
 
-**NU Electric Racing (Electric/Formula Hybrid Team)**  
+**NU Electric Racing (Electric Formula Student Team)**  
 <!-- - Collaborating on embedded telemetry + sensor acquisition path (current, voltage, temperature, wheel speed) for real‑time vehicle insight.  
 - Assisting with CAN bus message layout and validation tooling (fault injection & bus load observation).  
 - Helping document wiring / interface conventions to reduce integration churn pre‑scrutineering.   -->
@@ -260,9 +260,9 @@ I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston
 ## 🧭 Leadership (Guiding the Narrative)
 
 **Global Student Mentor — Northeastern University**  
-- Onboarding incoming international graduate cohorts: orienting on academic tools, campus resources, and lab culture.  
-- Hosting Q&A / micro‑sessions (networking etiquette, course planning) with emphasis on actionable checklists.  
-- Providing 1:1 guidance on transitioning embedded coursework from prior curricula to Northeastern’s lab expectations.  
+- Onboarding incoming international graduate cohorts: orienting on campus resources  
+- Hosting Q&A / micro‑sessions (wellbeing and resource awareness) with emphasis on actionable checklists.  
+- Providing 1:1 guidance on transitioning in a Happy and Informed Husky🐾  
 
 **Senator — Graduate Student Government (GSG)**   
 - Contributing to committee discussions on Student Welfare within the university 
