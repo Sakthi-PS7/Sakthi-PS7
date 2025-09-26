@@ -6,11 +6,11 @@
 <div align="center">
 
 # 🎬 **THE FIRMWARE 💻 CHRONICLES📔**
-### **Starring: Sakthivel P. Sivakumar**
+### **Starring: Sakthivel P. Sivakumar** <img src="images\Github_Cat\spidertocat.png" alt="Sakthivel Profile" width="30" style="border-radius:25%; margin-top:12px" />
 
 <!-- Replace with a cinematic banner or “movie poster” -->
 <!-- POSTER: Paste image URL below -->
-<img src="images\spidy_solo_cropped.jpg" alt="Cinematic Poster" width="40%" />
+<!-- <img src="images\spidy_solo_cropped.jpg" alt="Cinematic Poster" width="40%" /> -->
 
 <!-- Replace with your profile picture (circular works best) -->
 <!-- PROFILE: Paste image URL below -->
