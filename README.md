@@ -84,8 +84,6 @@ If you prefer static, comment this out and keep the static tagline below. -->
 Hello! I’m **Sakthivel**, a hands-on **Embedded & Firmware Engineer** who loves building at the edge where **software orchestrates hardware**.  
 I’m currently pursuing my **M.S. in ECE** at **Northeastern University, Boston**, and mentoring peers as a **Teaching Assistant**. My interests span **real-time systems, low-level OS internals, protocols, and signal-aware firmware**—anchored by measurable outcomes and careful engineering.
 
-> **Seeking:** Co-op/Internship (Full-time 40 hrs/week) in **Spring 2026** — Massachusetts & New England preferred.  
-> **Work Authorization:** International student; open to roles **not restricted** to U.S. Citizens/PR only.
 
 ---
 
